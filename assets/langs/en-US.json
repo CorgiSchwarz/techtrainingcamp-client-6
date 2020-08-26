@@ -1,0 +1,18 @@
+{
+  "change_city": "Change City",
+  "change_language": "Language",
+  "about": "About",
+  "wind": "wind",
+  "humidity": "humidity",
+  "pressure": "pressure",
+  "English": "English",
+  "Chinese": "Chinese",
+  "check_network": "please check your network status",
+  "ourClock": "ourClock",
+  "cancel": "cancel",
+  "city_name": "enter city name",
+  "apparent": "apparent",
+  "air": "air",
+  "lifestyle": "lifestyle",
+  "data_sources": "Data Sources: heweather"
+}
